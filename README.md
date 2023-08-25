@@ -2,7 +2,7 @@
 Eastern Bank Limited (EBL) online payment gateway integration with code-igniter-3 (PHP Framework).
 
 <h4>File Paths</h4>
-Controller: application/controllers/Payment.php</br>
-Gateway Connecting Library: application/libraries/Ebl.php</br>
-Ebl Core Files: application/third_party/ebl</br>
-Ebl Credential Configurations: application/third_party/ebl/configuration.php
+<b>Controller:</b> <ul>application/controllers/Payment.php</ul></br>
+<b>Gateway Connecting Library:</b> <ul>application/libraries/Ebl.php</ul></br>
+<b>Ebl Core Files:</b> <ul>application/third_party/ebl</ul></br>
+<b>Ebl Credential Configurations:</b> <ul>application/third_party/ebl/configuration.php</ul>
