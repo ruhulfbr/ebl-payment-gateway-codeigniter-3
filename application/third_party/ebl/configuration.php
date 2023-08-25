@@ -5,7 +5,7 @@ $configArray = array();
 // possible values:
 // FALSE = test mode
 // TRUE = live mode
-$configArray["gatewayMode"] = TRUE;
+$configArray["gatewayMode"] = FALSE;
 
 // The below value should not be changed
 $configArray["proxyCurlOption"] = CURLOPT_PROXYAUTH;
